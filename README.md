@@ -1,4 +1,4 @@
-# Project 2: Data_cleaning_manipulation
+# Project 2: Data cleaning & manipulation
 
 *Imogen Rickert*
 
@@ -15,7 +15,7 @@
 
 ## Project Description
 
-I started with a messy data set [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks/version/1). I imported it, used my data wrangling skills to clean it up and prepare it to be analyzed, and then exported it as a clean CSV data file.
+I started with a messy data set: [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks/version/1). I imported it, used my data wrangling skills to clean it up and prepare it to be analyzed, and then exported it as a clean CSV data file.
 
 
 ## Questions & Hypotheses
@@ -23,7 +23,7 @@ What are the questions you would like to answer with your analysis? What did you
 
 ## Dataset
 
-I used this dataset: [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks/version/1).
+I used the [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks/version/1) dataset.
 
 It is a table of shark attack incidents compiled by the Global Shark Attack File. 
 
@@ -58,7 +58,7 @@ My repository contains the jupyter notebook file with headings and explanations 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/imogen-rickert/Data_cleaning_manipulation)  
 
 
 
