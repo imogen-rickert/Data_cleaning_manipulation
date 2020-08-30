@@ -1,12 +1,11 @@
 # Project 2: Data cleaning & manipulation
 
-*Imogen Rickert*
+*Imogen Rickert*. 
 
 *August 2020 cohort, Berlin, 22.08.20*
 
 ## Content
 - [Project Description](#project-description)
-- [Questions & Hypotheses](#questions-hypotheses)
 - [Dataset](#dataset)
 - [Database](#database)
 - [Workflow](#workflow)
@@ -17,9 +16,6 @@
 
 I started with a messy data set: [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks/version/1). I imported it, used my data wrangling skills to clean it up and prepare it to be analyzed, and then exported it as a clean CSV data file.
 
-
-## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
 
 ## Dataset
 
