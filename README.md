@@ -52,7 +52,6 @@ My repository contains the jupyter notebook file with headings and explanations 
 
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/imogen-rickert/Data_cleaning_manipulation)  
 
